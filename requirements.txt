@@ -1,0 +1,6 @@
+openai==0.28.0
+langchain==0.0.285
+unstructured==0.10.12
+faiss-cpu==1.7.4
+tiktoken==0.4.0
+python-dotenv==1.0.0
